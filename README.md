@@ -16,9 +16,13 @@ Separated by one new line.
 
 
 *Italics*
+
 **Bold**
+
 **__BoldItalicized__**
+
 ***Trying Bold and Italicized***
+
 ~~Strikethrough~~
 
 1. First Ordered list
