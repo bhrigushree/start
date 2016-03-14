@@ -18,14 +18,14 @@ Separated by one new line.
 
 **Bold**
 
-***Trying Bold and Italicized**
+***Trying Bold and Italicized***
 
 ~~Strikethrough~~
 
 1. First Ordered list
 3. Seeing if number make a difference
-..1. Ordered Sublist
+  1. Ordered Sublist
 5. This should be number 3
-..* This should be unordered list
+  * This should be unordered list
 
 
