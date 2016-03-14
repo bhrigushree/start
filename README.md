@@ -1,6 +1,8 @@
 # start
 First Git Project
+
 Init 0
+
 
 Separated by two newlines.
 
@@ -16,9 +18,7 @@ Separated by one new line.
 
 **Bold**
 
-**__BoldItalicized__**
-
-***Trying Bold and Italicized***
+***Trying Bold and Italicized**
 
 ~~Strikethrough~~
 
