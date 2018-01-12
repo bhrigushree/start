@@ -4,7 +4,7 @@ First Git Project
 Init 0
 
 
-Separated by two newlines.
+Separated by two new lines.
 
 Separated by one new line.
 
@@ -30,6 +30,6 @@ Separated by one new line.
   * This should be unordered list
   
 
-[www.google.com] Link to google.
+ [Link to google](www.google.com).
 
 
